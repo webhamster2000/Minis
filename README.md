@@ -5,7 +5,7 @@ This is a collection of some smaller projects
 Basically a python version of https://www.spitzner.org/kkmoon.html. If you are happy about this, please click the link and donate some bucks to this awesome guy.
 
 Some cheap China webcams use files with a .264 file extension to store videos on SD card. 
-calling "python 264-file-cam-video.py file.264" will extract all video data in file.264 and writes it into file.264.h264
+Calling "python 264-file-cam-video.py file.264" will extract all video data in file.264 and writes it into file.264.h264
 
 This file.26.h264 can be played e.g. in VLC Media PLayer.
 
