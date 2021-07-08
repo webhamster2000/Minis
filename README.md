@@ -8,7 +8,7 @@ Some cheap China webcams use files with a .264 file extension to store videos on
 
 Calling "python 264-file-cam-video.py file.264" will extract all video data in file.264 and writes it into file.264.h264
 
-This file.26.h264 can be played e.g. in VLC Media PLayer.
+This file.264.h264 can be played e.g. in VLC Media PLayer.
 
 # circle.py and graphics.py
 Proof of concept to implement a fast "draw a circle" implementation + a simple graphics lib.
