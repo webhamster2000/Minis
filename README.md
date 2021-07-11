@@ -2,7 +2,7 @@
 This is a collection of some smaller projects
 
 # 264-file-cam-video.py
-Basically a python version of https://www.spitzner.org/kkmoon.html. If you are happy about this, please click the link and donate some bucks to this awesome guy.
+Basically a python version of https://www.spitzner.org/kkmoon.html. If you are happy about finding this decoder, please click the link and donate some bucks to this awesome guy.
 
 Some cheap China webcams use files with a .264 file extension to store videos on SD card.
 
