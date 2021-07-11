@@ -14,7 +14,8 @@ while True:
     len = struct.unpack('i', f.read(4))[0] # conten length as 4 byte integer
     f.read(20 - 4 - 4 - 4) # some random buffer
     content = f.read(len) # actual video content
-    video.write(content)
+    if id == b"HXVF": #video
+        video.write(content)
     full_len += len
 
 f.close()
