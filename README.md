@@ -16,5 +16,5 @@ Proof of concept to implement a fast "draw a circle" implementation + a simple g
 # LinearRegression.py
 From scratch impementation of a simple linear regression solver.
 
-#brainfuck.py
+# brainfuck.py
 Quick and dirty brainfuck interpreter in python + some brainfuck code examples
